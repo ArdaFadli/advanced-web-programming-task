@@ -1,0 +1,22 @@
+body, html {
+  font-family: 'Nunito';
+}
+
+.overlap-bg-navbar{
+	background: #4d86c0;
+}
+.overlap-bg-footer{
+	background: #527ba9;
+}
+.overlap-txt-white{
+	color: white;
+}
+.overlap-bg-white{
+	background: white;
+}
+.bg-lightblue{
+	background: #f1f6fb;
+}
+.bg-lightbrown{
+	background: #efecea;
+}
